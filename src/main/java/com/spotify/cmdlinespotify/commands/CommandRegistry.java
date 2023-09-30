@@ -10,7 +10,7 @@ public class CommandRegistry {
 
     public CommandRegistry(List<Command> commandList)
     {
-        this.commandList = commandList;
+       this.commandList = commandList;
     }
     public void excecute(String input)
     {
