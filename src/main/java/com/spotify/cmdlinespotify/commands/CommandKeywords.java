@@ -8,4 +8,5 @@ public interface CommandKeywords {
     String addSongToPlaylist = "AddSongToPlaylist";
     String removePlaylist = "RemovePlaylist";
     String removeSongFromPlaylist = "RemoveSongFromPlaylist";
+    String addSongToAlbum = "AddSongToAlbum";
 }
