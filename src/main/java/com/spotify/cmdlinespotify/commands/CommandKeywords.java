@@ -7,4 +7,5 @@ public interface CommandKeywords {
     String createPlaylist = "CreatePlaylist";
     String addSongToPlaylist = "AddSongToPlaylist";
     String removePlaylist = "RemovePlaylist";
+    String removeSongFromPlaylist = "RemoveSongFromPlaylist";
 }
